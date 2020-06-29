@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue0387FB">#0E6BBC</color>
+    <color name="whileFFFFFF">#FFFFFF</color>
+    <color name="coffee67ABE6">#37C3BE57</color>
+    <color name="black000000">#000000</color>
+    <color name="coffee2_4E482C">#686135</color>
+    <color name="whileE1D490">#E1D490</color>
+
+
+    <array name="dot_colors">
+        <item>#7E833C</item>
+        <item>#5A7C33</item>
+        <item>#FFBB00</item>
+    </array>
+</resources>
